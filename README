@@ -1,0 +1,24 @@
+uinstaller-core
+
+Introduction:
+
+This project is the core of "The Universal Distro Installer".
+
+UInstaller "The Universal Distro Installer" is a project who aims to be a installer for every popular linux distro and easy to adapt to a new linux based distro, this project is based on the Linux Mint's work "Live Installer", who was a startpoint for this job.
+"Use it, adapt it and enjoy it!"
+The Uremix Team.
+
+Creator:
+
+Luis Ariel Vega (vsoliz.ariel@gmail.com)
+
+Contact:
+
+website: http://uremix.org
+wiki: http://wiki.uremix.org/wiki/UInstaller
+forum: http://comunidad.uremix.org/viewforum.php?f=9
+repository: https://github.com/arielvega/uinstaller-core
+
+License:
+
+This project is "software libre", and is licensed under the terms and conditions of the GPL v3 license.
